@@ -1,0 +1,41 @@
+*{
+        margin: 0;
+        padding: 0;
+        box-sizing: 0;
+        font-family: 'Roboto', sans-serif;
+}
+.feito{
+    text-decoration: line-through;
+}
+
+body{
+    background-color: #e7e7e7;
+    padding-top: 100px;
+    margin-left: 100px;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+h3{
+    padding-bottom: 20px;
+}
+
+.container{
+    padding-bottom: 30px;
+}
+
+button{
+    background-color: green;
+    border-radius: 20px;
+    border-color: green;
+    width: 100px;
+    color: white;
+}
+
+li{
+    margin-bottom: 10px ;
+}
